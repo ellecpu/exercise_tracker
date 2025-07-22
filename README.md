@@ -1,2 +1,2 @@
 # exercise_tracker
-This is my exercise tracker app, I made this  Web Development final assignment
+This is my exercise tracker app, I made this  Web Development final assignment, this is a simple exercise tracking application built in MERN stack in which you can add exercises such as situps, pushups, squats etc, number of reps, your current weight and the date of adding exercise. You can also edit/delete the exercises any time you want, all the data is stored inside a mongoDB atlas database.
